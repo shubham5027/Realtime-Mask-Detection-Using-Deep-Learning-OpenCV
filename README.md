@@ -1,4 +1,4 @@
-# 🎭 Face Mask Detection Using Deep Learning (Covuational Neural Netwroks with OpenCV 🎭
+![Screenshot 2023-12-25 230124](https://github.com/shubham5027/Realtime-Covid-19-Mask-Detection-Using-Deep-Learning-OpenCV/assets/132193443/dab5c09f-3ed2-41b8-875f-85bbd61ac0e2)# 🎭 Face Mask Detection Using Deep Learning (Covuational Neural Netwroks with OpenCV 🎭
 
 ## Introduction
 
@@ -23,6 +23,7 @@ We employ the versatile OpenCV library, renowned for its image processing and co
 
 ## 🏃 Usage
 
+
 Implementing face mask detection with our model is a straightforward process:
 
 1. 💾 **Install Dependencies:** Ensure that OpenCV, TensorFlow, and Keras are installed in your environment.
@@ -44,3 +45,10 @@ Implementing face mask detection with our model is a straightforward process:
 ## 🏁 Conclusion
 
 This project showcases the effectiveness of deep learning and OpenCV in achieving accurate face mask detection. The developed model reliably identifies individuals wearing face masks, contributing to public health and safety amidst challenging circumstances.
+
+## Screenshots
+
+![Screenshot 2023-12-25 230124](https://github.com/shubham5027/Realtime-Covid-19-Mask-Detection-Using-Deep-Learning-OpenCV/assets/132193443/20a0d13e-c05e-470d-b042-83c
+
+![Screenshot 2023-12-25 230111](https://github.com/shubham5027/Realtime-Covid-19-Mask-Detection-Using-Deep-Learning-OpenCV/assets/132193443/a491880b-9508-47e9-949e-e1aa3b5662c9)
+fad2d9614)
